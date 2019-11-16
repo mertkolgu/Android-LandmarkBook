@@ -3,6 +3,7 @@ package tr.com.mertkolgu.landmarkbook;
 import android.graphics.Bitmap;
 
 class Singleton {
+
     private Bitmap chosenImage;
     private static Singleton singleton;
 
